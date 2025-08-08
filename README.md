@@ -1,1 +1,12 @@
-# Ifelsetrabalho
+ Ifelsetrabalho
+ <h1>Trabalho TPA If else</h1>
+ <p>Quando iniciado, o projeto vai aparecer uma interface perguntando sua idade</p>
+ <img src="<img width="630" height="501" alt="image" src="https://github.com/user-attachments/assets/c20687ed-11e6-453f-b0dc-0a66993badc4" />
+" alt="">
+ <p>Se digitar 18 anos ou mais vai aparecer uma mensagem escrito que você é maior de idade caso contrário irá aparecer uma mensagem de que você é menor de idade.</p>
+<img src="" alt="">
+ <p>Depois disso vai aparecer uma mensagem perguntando sua altura em cm, se o usuário digitar 170cm ou menos que isso irá aparecer essa mensagem "Você é baixo", caso contrário irá aparecer a mensagem que você é alto.
+ <img src="" alt="">
+ </p>Depois irá aparecer uma mensagem perguntando oséculo que você nasceu, se for diferente de 21 irá aparecer a mensagem "Você é velho", caso contrário irá aparecer a mensagem "Você é novo".
+ <img src="" alt="">
+ 
