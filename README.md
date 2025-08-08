@@ -1,8 +1,8 @@
  Ifelsetrabalho
  <h1>Trabalho TPA If else</h1>
  <p>Quando iniciado, o projeto vai aparecer uma interface perguntando sua idade</p>
-<img src="<img width="483" height="304" alt="Digite sua idade" src="https://github.com/user-attachments/assets/1f8451c6-db76-41cd-bef3-0b9540d123dc" />
-" alt="">
+<img width="483" height="304" alt="Digite sua idade" src="https://github.com/user-attachments/assets/c81cda8a-dc18-4b49-8a27-0e922c439185" />
+
  <p>Se digitar 18 anos ou mais vai aparecer uma mensagem escrito que você é maior de idade caso contrário irá aparecer uma mensagem de que você é menor de idade.</p>
 <img src="" alt="">
  <p>Depois disso vai aparecer uma mensagem perguntando sua altura em cm, se o usuário digitar 170cm ou menos que isso irá aparecer essa mensagem "Você é baixo", caso contrário irá aparecer a mensagem que você é alto.
